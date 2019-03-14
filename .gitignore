@@ -4,6 +4,9 @@
 /dist
 /tmp
 /out-tsc
+/src/assets/SimpleMap_files
+/src/assets/SimpleMap.html
+
 # Only exists if Bazel was run
 /bazel-out
 

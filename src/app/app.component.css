@@ -1,0 +1,8 @@
+.main {
+  display: grid;
+  grid-template-rows: 5vh 90vh;
+}
+.content {
+  display: grid;
+  grid-template-columns: 20vw 75vw;
+}
