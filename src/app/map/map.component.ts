@@ -13,6 +13,10 @@ export class MapComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    /*
+      https://angular.io/guide/http
+      notes on creating a service, configured from config, to get data
+    */
 
     const map = L.map('map').setView([39.288299, -76.613486], 11);
 
