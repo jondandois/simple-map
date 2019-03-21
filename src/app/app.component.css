@@ -1,8 +1,12 @@
 .main {
   display: grid;
-  grid-template-rows: 5vh 90vh;
+  grid-template-rows: 5vh 95vh;
+  width: 100%;
+  height: 100%;
 }
 .content {
   display: grid;
-  grid-template-columns: 20vw 75vw;
+  grid-template-columns: 25vw 75vw;
+  width: 100%;
+  height: 100%;
 }
