@@ -28,8 +28,7 @@
             ],
             "scripts": [
               "src/assets/leaflet/leaflet.js"
-            ],
-            "es5BrowserSupport": true
+            ]
           },
           "configurations": {
             "production": {
